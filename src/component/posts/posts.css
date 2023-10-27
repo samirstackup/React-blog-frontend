@@ -1,0 +1,7 @@
+.posts {
+  /* flex: 9; */
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  /* flex-wrap: wrap;    to make two posts appear side-side */
+}
